@@ -1,4 +1,20 @@
-.image{
-    height: 100px;
-    width: 100px;
+div{
+    justify-content: space-between;
+    font-size: large;
+}
+
+.l1{
+    border: 2px solid black;
+}
+
+.l2{
+    border: 2px solid black;
+}
+
+.l3{
+    border: 2px solid black;
+}
+
+.header{
+    text-align: center;
 }
